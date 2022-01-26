@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507080190865",
+    "project_id": "nrt-chatsapp",
+    "storage_bucket": "nrt-chatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507080190865:android:f3da5fa83f9322e2b40830",
+        "android_client_info": {
+          "package_name": "com.example.nrtchatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507080190865-76bklk04ef3o137ihlqe7adhgalmiajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrNsTzGc7Qal5sSlmmNQ_6Wez-jnrWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507080190865-76bklk04ef3o137ihlqe7adhgalmiajj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
